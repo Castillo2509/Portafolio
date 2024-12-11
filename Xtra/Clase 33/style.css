@@ -1,0 +1,18 @@
+.navbar{
+    background-color: #78e40c;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+
+.navbar-brand{
+    color: white
+!important;
+    font-weight: bold;
+    font-size: 26px;
+}
+
+.logonavbar{
+    margin-right: 20px;
+    
+}
+
